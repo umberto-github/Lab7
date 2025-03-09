@@ -1,0 +1,214 @@
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\appsettings.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.staticwebassets.runtime.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.staticwebassets.endpoints.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.exe
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.deps.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.runtimeconfig.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\IdentityTest.pdb
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.AssemblyInfo.cs
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\scopedcss\bundle\IdentityTest.styles.css
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\scopedcss\projectbundle\IdentityTest.bundle.scp.css
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\o4jngkey06-61n19gt1b8.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\qnw23q3xlj-xtxxf3hu2r.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\j6cus8bjoi-bqjiyaj88i.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\41otv1vg7r-c2jlpeoesf.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\u68yqnchfq-erw9l3u2r3.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\lx3xzyq9yt-aexeepp0ev.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\zu7fgmcid3-d7shbmvgxk.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\h2nun0wbe8-ausgxo2sd3.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\mnqfsgnbdn-k8d9w2qqmf.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\wjiaqsw2e4-cosvhxvwiu.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\72x7g0my8g-ub07r2b239.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\zsq97d2wzr-fvhpjtyr6v.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\eysy5250nb-b7pk76d08c.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\ictfiisvbq-fsbi9cje9m.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\n2fk4fh04h-rzd6atqjts.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\0rfcb4k81p-ee0r1s7dh0.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\jy7xc5m4kb-dxx9fxp4il.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\g7smz4fms7-jd9uben2k1.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\8s775bmdxn-khv3u5hwcm.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\fq8b0b66ba-r4e9w2rdcm.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\tm7nlfk279-lcd1t2u6c8.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\7qgqu8mvj7-c2oey78nd0.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\yvlsr2lmxc-tdbxkamptv.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\2saq552dyj-j5mq2jizvt.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\oevpgjudon-06098lyss8.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\jr14b97byj-nvvlpmu67g.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\3pjqbqv9c3-s35ty4nyc5.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\fv8dg6fbcg-pj5nd1wqec.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\adkk2drqp5-46ein0sx1k.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\dzbpmpdiz6-v0zj4ognzu.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\akh59pg7uk-37tfw0ft22.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\wa82spf2i5-hrwsygsryq.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\yxestvztxf-pk9g2wxc8p.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\zulzbc18um-ft3s53vfgj.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\e1g8fct29i-6cfz1n2cew.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\n8seem08jl-6pdc2jztkx.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\7awwn537na-493y06b0oq.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\0jk5se9xbp-iovd86k7lj.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\0qpnw4oc7r-vr1egmr9el.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\gv7qihols7-kbrnm935zg.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\7kpw84q7vw-jj8uyg4cgr.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\w8iz6cgn0v-y7v9cxd14o.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\r9oo3at8ka-notf2xhcfb.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\gyn0a83g5d-h1s4sie4z3.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\d3id19xghf-63fj8s7r0e.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\5cfejnqt8u-0j3bgjxly4.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\byer7ssza0-47otxtyo56.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\44jaumiw39-4v8eqarkd7.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\yufzx4athh-356vix0kms.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\tyaacp20rd-83jwlth58m.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\hcgvb6s6e3-mrlpezrjn3.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\4gqoz032oe-lzl9nlhx6b.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\s4ehhnufod-ag7o75518u.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\deloxajcii-x0q3zqp4vz.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\484pizpe0c-0i3buxo5is.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\13qa7e6cci-o1o13a6vjx.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\7vx982xc46-ttgo8qnofa.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\chmy6ttaau-2z0ns9nrw6.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\x4k1ale7y5-muycvpuwrr.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\90jzmourar-87fc7y1x7t.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\k62pump5l0-mlv21k5csn.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\w822lctlc5-aca5rbn7zi.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\46tnrunsrc-aca5rbn7zi.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.IdentityTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.IdentityTest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.build.IdentityTest.props
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IdentityTest.props
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IdentityTest.props
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\refint\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.pdb
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.genruntimeconfig.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\ref\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\1qzqm23kfs-dj9zd04yg2.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\IdentityTest.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\Identity.AFC05338.Up2Date
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc\Desktop\VsTest\IdentityTest\obj\Debug\net9.0\compressed\gr1nfbouay-ahxxbq2wt2.gz
+C:\Users\pc\Desktop\VsTest\IdentityTest\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\appsettings.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.staticwebassets.endpoints.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.staticwebassets.runtime.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.exe
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.deps.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.runtimeconfig.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\IdentityTest.pdb
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.AssemblyInfo.cs
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\scopedcss\bundle\IdentityTest.styles.css
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\scopedcss\projectbundle\IdentityTest.bundle.scp.css
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\gr1nfbouay-ahxxbq2wt2.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\o4jngkey06-61n19gt1b8.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\1qzqm23kfs-dj9zd04yg2.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\qnw23q3xlj-xtxxf3hu2r.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\j6cus8bjoi-bqjiyaj88i.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\41otv1vg7r-c2jlpeoesf.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\u68yqnchfq-erw9l3u2r3.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\lx3xzyq9yt-aexeepp0ev.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\zu7fgmcid3-d7shbmvgxk.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\h2nun0wbe8-ausgxo2sd3.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\mnqfsgnbdn-k8d9w2qqmf.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\wjiaqsw2e4-cosvhxvwiu.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\72x7g0my8g-ub07r2b239.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\zsq97d2wzr-fvhpjtyr6v.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\eysy5250nb-b7pk76d08c.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\ictfiisvbq-fsbi9cje9m.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\n2fk4fh04h-rzd6atqjts.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\0rfcb4k81p-ee0r1s7dh0.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\jy7xc5m4kb-dxx9fxp4il.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\g7smz4fms7-jd9uben2k1.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\8s775bmdxn-khv3u5hwcm.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\fq8b0b66ba-r4e9w2rdcm.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\tm7nlfk279-lcd1t2u6c8.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\7qgqu8mvj7-c2oey78nd0.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\yvlsr2lmxc-tdbxkamptv.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\2saq552dyj-j5mq2jizvt.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\oevpgjudon-06098lyss8.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\jr14b97byj-nvvlpmu67g.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\3pjqbqv9c3-s35ty4nyc5.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\fv8dg6fbcg-pj5nd1wqec.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\adkk2drqp5-46ein0sx1k.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\dzbpmpdiz6-v0zj4ognzu.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\akh59pg7uk-37tfw0ft22.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\wa82spf2i5-hrwsygsryq.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\yxestvztxf-pk9g2wxc8p.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\zulzbc18um-ft3s53vfgj.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\e1g8fct29i-6cfz1n2cew.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\n8seem08jl-6pdc2jztkx.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\7awwn537na-493y06b0oq.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\0jk5se9xbp-iovd86k7lj.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\0qpnw4oc7r-vr1egmr9el.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\gv7qihols7-kbrnm935zg.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\7kpw84q7vw-jj8uyg4cgr.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\w8iz6cgn0v-y7v9cxd14o.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\r9oo3at8ka-notf2xhcfb.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\gyn0a83g5d-h1s4sie4z3.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\d3id19xghf-63fj8s7r0e.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\5cfejnqt8u-0j3bgjxly4.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\byer7ssza0-47otxtyo56.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\44jaumiw39-4v8eqarkd7.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\yufzx4athh-356vix0kms.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\tyaacp20rd-83jwlth58m.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\hcgvb6s6e3-mrlpezrjn3.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\4gqoz032oe-lzl9nlhx6b.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\s4ehhnufod-ag7o75518u.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\deloxajcii-x0q3zqp4vz.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\484pizpe0c-0i3buxo5is.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\13qa7e6cci-o1o13a6vjx.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\7vx982xc46-ttgo8qnofa.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\chmy6ttaau-2z0ns9nrw6.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\x4k1ale7y5-muycvpuwrr.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\90jzmourar-87fc7y1x7t.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\k62pump5l0-mlv21k5csn.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\w822lctlc5-aca5rbn7zi.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\compressed\46tnrunsrc-aca5rbn7zi.gz
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.IdentityTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.IdentityTest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.build.IdentityTest.props
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IdentityTest.props
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IdentityTest.props
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\Identity.AFC05338.Up2Date
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\refint\IdentityTest.dll
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.pdb
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\IdentityTest.genruntimeconfig.cache
+C:\Users\pc\Desktop\VsTest - Copia\IdentityTest\obj\Debug\net9.0\ref\IdentityTest.dll
